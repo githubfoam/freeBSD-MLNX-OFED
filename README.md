@@ -2,8 +2,12 @@
 cross-platform Mellanox OFED for FreeBSD (work under progress)
 warning:provisioner is not ansible_local due to freebsd synced_folder problem.
 
-Host: Windows 10
+Host: Windows 10   
 Vagrant VM Guest: FreeBSD-11.1
+
+vagrant up iser-server01   
+vagrant destroy iser-server01   
+vagrant ssh iser-server01   
 
 download vagrant and install
 https://www.vagrantup.com/downloads.html
