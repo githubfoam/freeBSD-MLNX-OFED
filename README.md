@@ -1,4 +1,4 @@
-# FreeBSD-OFED
+# FreeBSD-MLNX-OFED
 cross-platform Mellanox OFED for FreeBSD (work under progress)
 warning:provisioner is not ansible_local due to freebsd synced_folder problem.
 
