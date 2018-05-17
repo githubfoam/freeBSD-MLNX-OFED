@@ -1,5 +1,7 @@
-# FreeBSD-MLNX-OFED
-cross-platform Mellanox OFED for FreeBSD (work under progress)
+# FreeBSD-MLNX-OFED (work under progress)
+warning:Due to firmware limitation, virtually is not implemented.
+
+cross-platform Mellanox OFED for FreeBSD 
 warning:provisioner is not ansible_local due to freebsd synced_folder problem.
 
 Host: Windows 10   
